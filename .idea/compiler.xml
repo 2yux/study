@@ -14,5 +14,8 @@
         <module name="spring-cloud-eureka-7003" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud-eureka_7001" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
